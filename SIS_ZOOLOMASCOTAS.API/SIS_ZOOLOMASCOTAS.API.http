@@ -1,0 +1,6 @@
+@SIS_ZOOLOMASCOTAS.API_HostAddress = http://localhost:5119
+
+GET {{SIS_ZOOLOMASCOTAS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
